@@ -1,1 +1,4 @@
 .venv
+index.py
+vercel.json
+wsgi.py
